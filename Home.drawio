@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="UYCKthvtaVNBlcLC0Da7">
-    <mxGraphModel dx="478" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,17 +25,17 @@
             <mxPoint x="550" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MiUJI3LiH0cOwiuqquy1-9" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.fileserver;" value="Stardust" vertex="1">
+        <mxCell id="MiUJI3LiH0cOwiuqquy1-9" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.fileserver;" value="&lt;div&gt;Stardust&lt;/div&gt;&lt;div&gt;Jellyfin/NAS&lt;/div&gt;&lt;div&gt;10.0.0.110&lt;/div&gt;" vertex="1">
           <mxGeometry height="62" width="43" x="570" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="MiUJI3LiH0cOwiuqquy1-10" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.standard_host;" value="&lt;div&gt;Obelisk&lt;/div&gt;&lt;div&gt;Proxmox Node 1&lt;/div&gt;&lt;div&gt;10.0.0.101&lt;/div&gt;" vertex="1">
-          <mxGeometry height="62" width="43" x="110" y="450" as="geometry" />
+        <mxCell id="MiUJI3LiH0cOwiuqquy1-10" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;shape=mxgraph.cisco.servers.standard_host;labelPosition=left;" value="&lt;div&gt;Obelisk&lt;/div&gt;&lt;div&gt;Proxmox Node 1&lt;/div&gt;&lt;div&gt;10.0.0.101&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="43" x="90" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="MiUJI3LiH0cOwiuqquy1-11" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.standard_host;" value="&lt;div&gt;Slifer&lt;/div&gt;&lt;div&gt;Proxmox Node 2&lt;/div&gt;&lt;div&gt;10.0.0.102&lt;/div&gt;" vertex="1">
-          <mxGeometry height="62" width="43" x="210" y="450" as="geometry" />
+        <mxCell id="MiUJI3LiH0cOwiuqquy1-11" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;shape=mxgraph.cisco.servers.standard_host;labelPosition=left;" value="&lt;div&gt;Slifer&lt;/div&gt;&lt;div&gt;Proxmox Node 2&lt;/div&gt;&lt;div&gt;10.0.0.102&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="43" x="230" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="MiUJI3LiH0cOwiuqquy1-12" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.standard_host;" value="&lt;div&gt;Sungod-ra&lt;/div&gt;&lt;div&gt;Proxmox Node 3&lt;/div&gt;&lt;div&gt;10.0.0.103&lt;/div&gt;" vertex="1">
-          <mxGeometry height="62" width="43" x="320" y="450" as="geometry" />
+        <mxCell id="MiUJI3LiH0cOwiuqquy1-12" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;shape=mxgraph.cisco.servers.standard_host;labelPosition=left;" value="&lt;div&gt;Sungod-ra&lt;/div&gt;&lt;div&gt;Proxmox Node 3&lt;/div&gt;&lt;div&gt;10.0.0.103&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="43" x="370" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
