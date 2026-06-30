@@ -61,6 +61,36 @@
         <mxCell id="d21ZlUB42DrVjJeaplHZ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Proxmox Cluster &quot;Egyptian-Gods&quot;" vertex="1">
           <mxGeometry height="30" width="90" x="205" y="550" as="geometry" />
         </mxCell>
+        <mxCell id="d21ZlUB42DrVjJeaplHZ-11" edge="1" parent="1" source="MiUJI3LiH0cOwiuqquy1-10" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" target="MiUJI3LiH0cOwiuqquy1-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="127" y="400" as="sourcePoint" />
+            <mxPoint x="177" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d21ZlUB42DrVjJeaplHZ-12" edge="1" parent="1" source="MiUJI3LiH0cOwiuqquy1-11" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" target="MiUJI3LiH0cOwiuqquy1-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="295" y="400" as="sourcePoint" />
+            <mxPoint x="345" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d21ZlUB42DrVjJeaplHZ-13" edge="1" parent="1" source="MiUJI3LiH0cOwiuqquy1-12" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" target="MiUJI3LiH0cOwiuqquy1-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="394" y="410" as="sourcePoint" />
+            <mxPoint x="444" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d21ZlUB42DrVjJeaplHZ-14" edge="1" parent="1" source="MiUJI3LiH0cOwiuqquy1-9" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" target="MiUJI3LiH0cOwiuqquy1-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="390" as="sourcePoint" />
+            <mxPoint x="600" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d21ZlUB42DrVjJeaplHZ-15" edge="1" parent="1" source="d21ZlUB42DrVjJeaplHZ-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" target="MiUJI3LiH0cOwiuqquy1-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="613" y="370" as="sourcePoint" />
+            <mxPoint x="663" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
